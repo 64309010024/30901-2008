@@ -21,9 +21,8 @@
             </p>
         </div>
         <div class="col-sm-8 bg-secondary">
-            <h3>Main title</h3>
+            <h3>แก้ไขแล้ว</h3>
             <h5>Sub title</h5>
-            <img src="image_st/LseaA24.png" style="width: 650px;">
             <p class="main_content">some content Video provides a powerful way to help you prove your point. When you click Online
                 Video,
                 you can paste in the embed code for the video you want to add. You can also type a keyword to search
