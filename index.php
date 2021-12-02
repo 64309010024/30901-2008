@@ -6,8 +6,8 @@
 <div class="container-fluid main">
     <div class="row">
         <div class="col-sm-3 bg-light">
-            <h3>Sidetitle</h3>
-            <h5>subtitle</h5>
+            <h3>แก้ไขขึ้น Github & Server</h3>
+            <h5>Editted version 2/12/2021</h5>
             <div class="apic">Some picture</div>
             <p>some text</p>
             <p>description Horror Muffin Horror Muffin Horror Muffin Horror Muffin Horror Muffin Horror Muffin Horror Muffin 
@@ -23,6 +23,7 @@
         <div class="col-sm-8 bg-secondary">
             <h3>Main title</h3>
             <h5>Sub title</h5>
+            <img src="image_st/LseaA24.png" style="width: 650px;">
             <p class="main_content">some content Video provides a powerful way to help you prove your point. When you click Online
                 Video,
                 you can paste in the embed code for the video you want to add. You can also type a keyword to search
